@@ -176,5 +176,3 @@ data/
 data/*.txt
 !ali.txt
 README.md
-ali.py
-b.py
